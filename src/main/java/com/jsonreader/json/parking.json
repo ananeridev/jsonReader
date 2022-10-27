@@ -1,0 +1,14 @@
+[
+    {
+        "nome":"Ana Neri",
+        "idade": 22,
+        "CPF":"565.897.556.98",
+        "automoveis": ["celta", "camaro"]
+    },
+    {
+        "nome":"Erick Wndel",
+        "idade": 26,
+        "CPF":"656.452.336.98",
+        "automoveis": ["elantra", "fusion"]
+    }
+]
